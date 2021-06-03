@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #292c34;
+}
+header{
+    background-color: #fff;
+    text-align: center;
+    font-family: 'Sigmar One', cursive;
+}
+div{
+    text-align: center;
+    margin: 150px auto;
+}
+.question{
+    width: 500px;
+    height: 50px;
+    padding: 5px;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    background-color: #fff;
+    font-family: 'Sigmar One', cursive;
+}
+.first{
+    margin-right: 200px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid #0f0;
+    border-radius: 5px;
+    background-color: #0f0;
+    color: #fff;
+    font-weight: bold;
+}
+.second{
+    width: 200px;
+    height: 50px;
+    border: 1px solid #f00;
+    border-radius: 5px;
+    background-color: #f00;
+    color: #fff;
+    font-weight: bold;
+}
+.score-board>span{
+    color: #fff;
+    font-family: 'Sigmar One', cursive;
+    font-size: 30px;
+}
+
+
+
